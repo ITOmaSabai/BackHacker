@@ -108,35 +108,4 @@ API:
   - スポットを登録時に、ピンした都市の動画をYouTubeから検索し、埋め込み表示させる
 
 ### 画面遷移図
-Figma：
-https://www.figma.com/file/ZUt2MHugqFmcQhiSp3hiJ1/BackHacker?type=design&node-id=0%3A1&mode=design&t=MUbmc5Gov3iGYJCF-1
-
-### READMEに記載した機能
-- [X] ユーザー登録機能
-- [X] ユーザー削除(退会)機能
-- [X] ログイン機能
-- [X] ログアウト機能
-- [X] Google Map表示機能
-- [X] スポット投稿機能(マップにピンを作成する)
-- [X] スポット削除機能
-- [X] スポット編集機能
-- [X] スポット一覧機能(地図上に表示)
-- [X] スポット一覧機能(国、地域別に一覧表示)
-- [X] コメント投稿機能
-- [X] コメント削除機能
-- [X] 訪問した(いいね)機能
-- [X] 訪問した(いいね)スポットの一覧機能
-- [X] ランキング機能
-- [X] 検索機能
-- [X] スポットを投稿する際、自動的に動画を取得する機能
-- [X] 通知機能
-- [X] 最新の「訪問した」をトップ画面に表示する機能
-- [X] オートコンプリート機能
-
-### 未ログインでも閲覧または利用できるページ
-- [X] Google Map表示機能
-- [X] 最新の「訪問した」をトップ画面に表示する機能
-- [X] スポット一覧機能(地図上に表示)
-- [X] スポット一覧機能(国、地域別に一覧表示)
-- [X] 検索機能
-- [X] ランキング機能
+[Figma](https://www.figma.com/file/ZUt2MHugqFmcQhiSp3hiJ1/BackHacker?type=design&node-id=0%3A1&mode=design&t=MUbmc5Gov3iGYJCF-1)
