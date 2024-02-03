@@ -106,3 +106,6 @@ API:
   - 表示させた埋め込みマップ上をクリックして、スポット情報をピンとして投稿し、地図上に表示させる(大島てるのイメージ)
 - YouTube Data API
   - スポットを登録時に、ピンした都市の動画をYouTubeから検索し、埋め込み表示させる
+
+### 画面遷移図
+[Figma](https://www.figma.com/file/ZUt2MHugqFmcQhiSp3hiJ1/BackHacker?type=design&node-id=0%3A1&mode=design&t=MUbmc5Gov3iGYJCF-1)
