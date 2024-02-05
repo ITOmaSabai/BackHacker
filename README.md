@@ -109,3 +109,6 @@ API:
 
 ### 画面遷移図
 [Figma](https://www.figma.com/file/ZUt2MHugqFmcQhiSp3hiJ1/BackHacker?type=design&node-id=0%3A1&mode=design&t=MUbmc5Gov3iGYJCF-1)
+
+### ER図
+[draw.io](https://drive.google.com/file/d/136-UDOOBHcFV_9o4273R1ecYxaN9VXXN/view?usp=sharing)
