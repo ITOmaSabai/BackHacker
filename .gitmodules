@@ -1,0 +1,6 @@
+[submodule "backhacker-backend"]
+	path = backhacker-backend
+	url = https://github.com/ITOmaSabai/BackHacker-backend.git
+[submodule "backhacker-frontend"]
+	path = backhacker-frontend
+	url = https://github.com/ITOmaSabai/BackHacker-frontend.git
